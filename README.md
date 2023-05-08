@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solvedjava-program-that-takes-in-an-array-of-ints-and-finds-the-maximum
+<br>
+Write a Java program that takes in an array of ints and finds the maximum contiguous subsequence sum, given an input length n. For example, for the following array, where n = 3 and the array is {-5 -1 2 -3 0 -3 3} the best possible sum of at least length 3 would be 0, where the subsequence is the last three elements (0, -3, 3). Provide comments which explain how the algorithm works.
